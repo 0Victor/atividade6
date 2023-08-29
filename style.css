@@ -1,0 +1,28 @@
+li {
+    font-size: 30px;
+    color: #dfc1f8;
+}/* Comentário em CSS */
+
+body {
+    /*background-color: #240046;*/
+    background-image: url('images/pidao.png');
+    background-repeat: no-repeat;/*não repetir a imagem*/
+    background-size: cover;/*cover deixar no tamanho da tela*/   
+}
+
+h1 {
+    /*border-style: outset;
+    border-color: blueviolet;
+    border-width: 5px;*/
+
+    border: blueviolet 5px outset;
+}
+
+.jogo{
+    color: rgb(199, 95, 251);
+    font-size: 40px;
+}
+
+#titulo{
+    background-color: rgb(102, 25, 135);
+}

@@ -1,0 +1,19 @@
+#exemplo p {
+    color: red;
+}
+
+div {
+    color:rgb(0, 0, 255)
+}
+
+div ul li {
+    color: red;
+}
+
+div{
+    border: 2px solid
+}
+
+div ul{
+    border: inherit;
+}
